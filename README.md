@@ -1,7 +1,7 @@
 # PROXIES
 
-<br>APIs:<br>- https://api.getproxylist.com/proxy
-<br>- https://gimmeproxy.com/api/getProxy<br>- http://pubproxy.com/api/proxy<br>- https://www.proxy-list.download/api/v1/get?type=https (https://www.proxy-list.download/api/v1)<br><br>Links:<br>https://www.proxyscan.io/<br>https://proxy-daily.com/<br>https://free-proxy-list.net/<br>http://www.freeproxylists.net/fr/<br>https://proxyscrape.com/free-proxy-list<br><br>
+<br>APIs:<br>https://api.getproxylist.com/proxy
+<br>https://gimmeproxy.com/api/getProxy<br>http://pubproxy.com/api/proxy<br>https://www.proxy-list.download/api/v1/get?type=https (https://www.proxy-list.download/api/v1)<br><br>Links:<br>https://www.proxyscan.io/<br>https://proxy-daily.com/<br>https://free-proxy-list.net/<br>http://www.freeproxylists.net/fr/<br>https://proxyscrape.com/free-proxy-list<br><br>
 https://premproxy.com/<br>
 http://proxysearcher.sourceforge.net/Proxy%20List.php?type=socks<br>
 https://www.proxydocker.com/en/proxylist/search?port=All&type=All&anonymity=All&country=All&city=All&state=All&need=Google<br>
