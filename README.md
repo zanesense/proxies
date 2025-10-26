@@ -1,98 +1,105 @@
-# PROXIES
+<div align="center">
 
-<br>APIs:<br>https://api.getproxylist.com/proxy
-<br>https://gimmeproxy.com/api/getProxy<br>http://pubproxy.com/api/proxy<br>https://www.proxy-list.download/api/v1/get?type=https (https://www.proxy-list.download/api/v1)<br><br>Links:<br>https://www.proxyscan.io/<br>https://proxy-daily.com/<br>https://free-proxy-list.net/<br>http://www.freeproxylists.net/fr/<br>https://proxyscrape.com/free-proxy-list<br><br>
-https://premproxy.com/<br>
-http://proxysearcher.sourceforge.net/Proxy%20List.php?type=socks<br>
-https://www.proxydocker.com/en/proxylist/search?port=All&type=All&anonymity=All&country=All&city=All&state=All&need=Google<br>
-https://proxydb.net/<br>
-http://nntime.com/proxy-updated-06.htm<br>
-https://www.proxydocker.com/<br>
-https://freevpn.ninja/free-proxy/txt<br>
-http://proxytime.ru/http<br>
-http://nntime.com/proxy-updated-07.htm<br>
-http://premiumproxy.net<br>
-https://www.proxydocker.com/en/proxylist/port/80<br>
-https://proxydb.net/?offset=60<br>
-http://free-proxy-list.net/anonymous-proxy.html<br>
-http://nntime.com/proxy-updated-10.htm<br>
-http://sslproxies24.blogspot.in/feeds/posts/default<br>
-https://proxydb.net/?offset=120<br>
-https://www.proxydocker.com/en/proxylist/port/9000<br>
-http://vipaccounts24.blogspot.com/<br>
-http://rootjazz.com/proxies/proxies.txt<br>
-https://www.spoofs.de/feeds/posts/default<br>
-http://www.vipsocks24.net/feeds/posts/default<br>
-https://www.proxydocker.com/en/proxylist/port/8088<br>
-https://proxydb.net/?offset=15<br>
-https://www.proxydocker.com/en/proxylist/port/8118<br>
-http://proxyape.com/<br>
-https://www.proxydocker.com/en/proxylist/search?port=All&type=All&anonymity=All&country=All&city=All&state=All&need=Social<br>
-http://nntime.com/proxy-updated-03.htm<br>
-https://proxydb.net/?offset=75<br>
-https://www.my-proxy.com/free-proxy-list-3.html<br>
-https://www.my-proxy.com/free-transparent-proxy.html<br>
-http://highbroadcast-proxy.blogspot.com/feeds/posts/default<br>
-http://socksproxylist24.blogspot.com/feeds/posts/default<br>
-https://www.proxydocker.com/en/proxylist/port/53281<br>
-https://proxydb.net/?offset=90<br>
-https://www.my-proxy.com/free-proxy-list-6.html<br>
-http://premiumproxy.net/anonymous-proxy-list.php<br>
-https://guncelproxy.com/<br>
-http://proxyandproxytools.blogspot.com/feeds/posts/default<br>
-https://55utd55.com/<br>
-https://www.proxydocker.com/en/proxylist/port/8123<br>
-http://proxylistchecker.org/proxylists.php?t=elite<br>
-http://free-fresh-proxy-daily.blogspot.com/feeds/posts/default<br>
-https://www.proxydocker.com/en/proxylist/port/3128<br>
-http://nntime.com/proxy-updated-05.htm<br>
-http://nntime.com/proxy-updated-09.htm<br>
-http://nntime.com/proxy-updated-01.htm<br>
-https://www.proxydocker.com/en/proxylist/port/10000<br>
-https://www.proxydocker.com/en/proxylist/port/8085<br>
-http://freshssh-list2018.blogspot.com/feeds/posts/default<br>
-https://worldproxy.info/<br>
-http://nntime.com/proxy-updated-04.htm<br>
-https://www.proxydocker.com/en/proxylist/search?port=All&type=All&anonymity=All&country=All&city=All&state=All&need=SEO<br>
-http://www.live-socks.net/feeds/posts/default<br>
-https://www.proxydocker.com/en/proxylist/port/8080<br>
-https://proxy50-50.blogspot.com/<br>
-http://nntime.com/proxy-updated-08.htm<br>
-https://proxydb.net/?offset=135<br>
-http://www.socks24.org/feeds/posts/default<br>
-http://www.megaproxylist.net/<br>
-http://feeds.feedburner.com/proxypandora<br>
-http://newfreshproxies24.blogspot.com/feeds/posts/default<br>
-https://www.proxydocker.com/en/proxylist/search?port=All&type=All&anonymity=All&country=All&city=All&state=All&need=BOT<br>
-http://getfreeproxylists.blogspot.com/<br>
-https://www.my-proxy.com/free-elite-proxy.html<br>
-https://www.sslproxies.org/<br>
-http://premiumproxy.net/http-proxy-list.php<br>
-https://www.my-proxy.com/free-proxy-list-10.html<br>
-https://www.proxydocker.com/en/proxylist/port/8888<br>
-https://proxydb.net/?offset=30<br>
-http://txt.proxyspy.net/proxy.txt<br>
-http://spys.ru/free-proxy-list/RU/<br>
-https://www.my-proxy.com/free-proxy-list-5.html<br>
-http://proxiatyomia.blogspot.com/feeds/posts/default<br>
-https://www.proxydocker.com/en/proxylist/port/65000<br>
-https://topproxy.info/<br>
-https://www.proxydocker.com/en/proxylist/port/1080<br>
-https://www.my-proxy.com/free-proxy-list-7.htmlv<br>
-https://www.my-proxy.com/free-anonymous-proxy.html<br>
-https://www.my-proxy.com/free-proxy-list-4.html<br>
-http://blog.proxies24.com/<br>
-https://www.proxydocker.com/en/proxylist/port/14<br>
-http://fineproxy.org/eng/fresh-proxies/<br>
-http://www.proxyserverlist24.top/feeds/posts/default<br>
-http://nntime.com/proxy-updated-02.htm<br>
-http://premiumproxy.net/https-ssl-proxy-list.php<br>
-https://www.socks-proxy.net/<br>
-https://www.my-proxy.com/free-proxy-list-2.html<br>
-https://proxydb.net/?offset=45<br>
-https://www.my-proxy.com/free-proxy-list.html<br>
-https://www.my-proxy.com/free-proxy-list-8.html<br>
-https://www.my-proxy.com/free-proxy-list-9.html<br>
-https://www.proxydocker.com/en/proxylist/type/HTTP<br>
-https://proxyfreaks.com/<br>
-https://www.proxydocker.com/en/proxylist/port/808<br>
+# 🌐 PROXIES — Free Public Proxy Sources
+> The ultimate list of free proxy APIs and websites for developers, scrapers, and privacy enthusiasts.
+
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+![Updated](https://img.shields.io/badge/Last_Updated-October_2025-blueviolet?style=for-the-badge)
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)
+![License](https://img.shields.io/badge/License-Free-lightgrey?style=for-the-badge)
+
+<img src="https://i.ibb.co/3rtnftG/proxy-banner.png" alt="Proxy Banner" width="800"/>
+
+</div>
+
+---
+
+## 🧠 Overview
+A curated list of **free proxy APIs and proxy websites** — perfect for:
+- ⚙️ Developers building automation or testing tools  
+- 🕵️‍♂️ Security researchers  
+- 🌍 Anyone exploring anonymous web access  
+
+---
+
+## ⚡ API Sources
+
+| Provider | API Endpoint |
+|-----------|---------------|
+| GetProxyList | [`https://api.getproxylist.com/proxy`](https://api.getproxylist.com/proxy) |
+| GimmeProxy | [`https://gimmeproxy.com/api/getProxy`](https://gimmeproxy.com/api/getProxy) |
+| PubProxy | [`http://pubproxy.com/api/proxy`](http://pubproxy.com/api/proxy) |
+| Proxy-List Download | [`https://www.proxy-list.download/api/v1/get?type=https`](https://www.proxy-list.download/api/v1) |
+
+---
+
+## 🌍 Free Proxy Websites
+
+| Category | Source |
+|-----------|---------|
+| Proxy Search Engines | [ProxyScan.io](https://www.proxyscan.io/), [ProxyDB.net](https://proxydb.net/), [ProxyDocker](https://www.proxydocker.com/) |
+| Fresh Lists Daily | [Proxy-Daily.com](https://proxy-daily.com/), [FreeProxyList.net](https://free-proxy-list.net/), [Proxyscrape.com](https://proxyscrape.com/free-proxy-list) |
+| SOCKS & Elite | [VIPSocks24.net](http://www.vipsocks24.net/feeds/posts/default), [SOCKS-Proxy.net](https://www.socks-proxy.net/), [Socks24.org](http://www.socks24.org/feeds/posts/default) |
+| Premium & Mixed | [PremProxy.com](https://premproxy.com/), [PremiumProxy.net](http://premiumproxy.net/), [FineProxy.org](http://fineproxy.org/eng/fresh-proxies/) |
+
+---
+
+## 📦 Extra Proxy Lists
+
+> These sites offer **region-based**, **port-based**, or **custom proxy filters** — useful for developers needing specific configurations.
+
+- [WorldProxy.info](https://worldproxy.info/)
+- [ProxyFreaks.com](https://proxyfreaks.com/)
+- [TopProxy.info](https://topproxy.info/)
+- [55utd55.com](https://55utd55.com/)
+- [My-Proxy.com](https://www.my-proxy.com/free-proxy-list.html)
+- [FreeVPN Ninja](https://freevpn.ninja/free-proxy/txt)
+- [RootJazz Proxy List](http://rootjazz.com/proxies/proxies.txt)
+
+---
+
+## 🔍 Proxy Aggregator Tools
+
+| Tool | Description |
+|------|--------------|
+| [Proxy Searcher](http://proxysearcher.sourceforge.net/Proxy%20List.php?type=socks) | Windows utility to fetch and test public proxies |
+| [ProxyListChecker.org](http://proxylistchecker.org/proxylists.php?t=elite) | Online proxy testing tool |
+| [Spys.ru](http://spys.ru/free-proxy-list/RU/) | Region-specific proxy listings |
+
+---
+
+## 🧩 Useful Blog Feeds
+
+These automatically updated **RSS feeds** publish fresh proxy lists daily:
+
+- [NewFreshProxies24](http://newfreshproxies24.blogspot.com/feeds/posts/default)
+- [FreeFreshProxyDaily](http://free-fresh-proxy-daily.blogspot.com/feeds/posts/default)
+- [HighBroadcastProxy](http://highbroadcast-proxy.blogspot.com/feeds/posts/default)
+- [SocksProxyList24](http://socksproxylist24.blogspot.com/feeds/posts/default)
+- [Proxies24 Blog](http://blog.proxies24.com/)
+- [Feeds: Spoofs.de](https://www.spoofs.de/feeds/posts/default)
+
+---
+
+## 💡 Tips
+
+- Test proxies using `curl`, `requests`, or a proxy checker tool.  
+- Combine APIs and daily feeds for automatic proxy refreshing.  
+- Always respect website **robots.txt** and **terms of service** when scraping.
+
+---
+
+## 🧠 Contribute
+Found a working or dead proxy source?  
+Open a **Pull Request** or submit it in the **Issues** tab.  
+Your contributions help keep the proxy world alive 🌍.
+
+---
+
+<div align="center">
+  <br>
+  <b>💀 Built for Open Internet Explorers</b><br>
+  <sub>Maintained by the community — updated regularly.</sub>
+  <br><br>
+  <img src="https://i.ibb.co/ykz9cnJ/glitch-proxy.gif" alt="Proxy Glitch" width="400">
+</div>
