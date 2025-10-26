@@ -70,21 +70,6 @@ A curated and categorized list of **free proxy APIs and websites** — perfect f
 
 ---
 
-## 🧩 RSS & FEED SOURCES
-
-> These automatically update daily or weekly with fresh proxy lists.
-
-| Feed | Link |
-|------|------|
-| **NewFreshProxies24** | [newfreshproxies24.blogspot.com](http://newfreshproxies24.blogspot.com/feeds/posts/default) |
-| **FreeFreshProxyDaily** | [free-fresh-proxy-daily.blogspot.com](http://free-fresh-proxy-daily.blogspot.com/feeds/posts/default) |
-| **HighBroadcastProxy** | [highbroadcast-proxy.blogspot.com](http://highbroadcast-proxy.blogspot.com/feeds/posts/default) |
-| **SocksProxyList24** | [socksproxylist24.blogspot.com](http://socksproxylist24.blogspot.com/feeds/posts/default) |
-| **Proxies24 Blog** | [blog.proxies24.com](http://blog.proxies24.com/) |
-| **Spoofs.de Feed** | [spoofs.de](https://www.spoofs.de/feeds/posts/default) |
-
----
-
 ## 🧠 Proxy Testing & Tools
 
 | Tool | Description | Link |
