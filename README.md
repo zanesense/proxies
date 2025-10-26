@@ -49,6 +49,7 @@ A curated and categorized list of **free proxy APIs and websites** — perfect f
 | **HideMy.name** | Massive tested proxy list | [hide.mn](https://hide.mn/en/proxy-list/) |
 | **CoolProxy** | Simple interface for mixed-level anonymity proxies | [cool-proxy.net](https://www.cool-proxy.net/proxies) |
 | **Spys.one** | Advanced filters by country, protocol, and uptime | [spys.one](https://spys.one/en/) |
+| **PZZQZ** | Fast, clean proxy list with uptime stats | [pzzqz.com](http://pzzqz.com/) |
 | **WorldProxy** | Global proxy aggregator | [worldproxy.info](https://worldproxy.info/) |
 | **TopProxy** | International proxy list | [topproxy.info](https://topproxy.info/) |
 
