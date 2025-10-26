@@ -8,8 +8,6 @@
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-Free-lightgrey?style=for-the-badge)
 
-<img src="https://i.ibb.co/3rtnftG/proxy-banner.png" alt="Proxy Banner" width="800"/>
-
 </div>
 
 ---
